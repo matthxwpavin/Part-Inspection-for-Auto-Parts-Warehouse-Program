@@ -204,6 +204,7 @@ python legacy/train.py --logtostderr --train_dir=training/ --pipeline_config_pat
 
 ### 14 - Tensorboard 
 in cmd type `(tensorflow-gpu) C:\tensorflow-gpu\models\research\object_detection>tensorboard --logdir=training` to monitor the training
+
 [![Untitled2.jpg](https://i.postimg.cc/6pjN4str/Untitled2.jpg)](https://postimg.cc/yDZG2bJx)
 
 
