@@ -1,0 +1,53 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*- 
+item {
+  id: 1
+  name: 'Disc Brake Caliper Piston'
+}
+
+item {
+  id: 2
+  name: 'Piston Ring'
+}
+
+item {
+  id: 3
+  name: 'Turbo Oil Hose'
+}
+
+item {
+  id: 4
+  name: 'Air Compressor'
+}
+
+item {
+  id: 5
+  name: 'Cylinder Liner'
+}
+
+item {
+  id: 6
+  name: 'Air Filter'
+}
+
+item {
+  id: 7
+  name: 'Alternator Vac Pump Inlet Oil Hose'
+}
+
+item {
+  id: 8
+  name: 'Timing Belt'
+}
+
+item {
+  id: 9
+  name: 'Engine Oil'
+}
+
+item {
+  id: 10
+  name: 'Hexagon Head Bolt'
+}
+
+
