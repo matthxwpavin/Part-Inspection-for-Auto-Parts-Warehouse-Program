@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>IMG_20190825_104801.jpg</filename>
+	<path>C:\SourceProject\dataset\IMG_20190825_104801.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2736</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ลูกสูบดิสเบรค</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>958</xmin>
+			<ymin>1364</ymin>
+			<xmax>1882</xmax>
+			<ymax>2288</ymax>
+		</bndbox>
+	</object>
+</annotation>
