@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>IMG_20190825_111745.jpg</filename>
+	<path>C:\SourceProject\dataset\IMG_20190825_111745.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2736</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ท่อยางน้ำมันเลี้ยงเทอร์โบ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>1440</ymin>
+			<xmax>2018</xmax>
+			<ymax>3096</ymax>
+		</bndbox>
+	</object>
+</annotation>
